@@ -1,0 +1,155 @@
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Form1.resources
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\RodriguezMJ\Desktop\Proyecto\Proyecto\obj\x86\Debug\Proyecto.pdb
+G:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.exe
+G:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+G:\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.exe
+G:\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.pdb
+G:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+G:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Form1.resources
+G:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+G:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.exe
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+H:\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.exe
+H:\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.pdb
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\ResolveAssemblyReference.cache
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\GenerateResource.read.1.tlog
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\GenerateResource.write.1.tlog
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmPrincipal.resources
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmUsuarios.resources
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmRegistroUsuarios.resources
+H:\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmRecuperarContra.resources
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmPrincipal.resources
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmRecuperarContra.resources
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmRegistroUsuarios.resources
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmUsuarios.resources
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+C:\Users\LifesGood\Desktop\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.exe
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.exe
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.pdb
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmPrincipal.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmRegistroUsuarios.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmUsuarios.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Clientes.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Transportes.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Comprobantes.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Presupuestos.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Reservas.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Destinos.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Excursiones.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Hoteles.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.txtIDCliente.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.NuevaReserva.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.ReservasDia.resources
+D:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.AgregarExcursionesPaquete.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.exe.config
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.exe
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.exe
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\bin\Debug\Proyecto.pdb
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.AgregarExcursionesPaquete.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Clientes.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Comprobantes.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Destinos.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Excursiones.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Hoteles.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.NuevaReserva.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.txtIDCliente.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Presupuestos.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmPrincipal.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmRegistroUsuarios.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Reservas.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.ReservasDia.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Transportes.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.frmUsuarios.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+E:\Escuela\Programas en C#\Proyecto CSharp VS 2010\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.exe
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.exe
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.pdb
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.AgregarExcursionesPaquete.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Clientes.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Comprobantes.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Destinos.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Excursiones.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Hoteles.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.NuevaReserva.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.txtIDCliente.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Presupuestos.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmPrincipal.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmRegistroUsuarios.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Reservas.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.ReservasDia.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Transportes.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmUsuarios.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+D:\Escuela\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.exe.config
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.exe
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.exe
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.pdb
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.AgregarExcursionesPaquete.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Clientes.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Comprobantes.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Destinos.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Excursiones.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Hoteles.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.NuevaReserva.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.txtIDCliente.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Presupuestos.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmPrincipal.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmRegistroUsuarios.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Reservas.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.ReservasDia.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Transportes.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmUsuarios.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+D:\Escuela\Otros\Programas_en_C#\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.exe.config
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.exe
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.pdb
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.exe
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\bin\Debug\Proyecto.pdb
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.csprojResolveAssemblyReference.cache
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.AgregarExcursionesPaquete.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Clientes.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Comprobantes.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Destinos.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Excursiones.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Hoteles.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.NuevaReserva.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.txtIDCliente.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Presupuestos.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmPrincipal.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmRegistroUsuarios.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Reservas.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.ReservasDia.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Transportes.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.frmUsuarios.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.Properties.Resources.resources
+C:\Users\LifesGood\Desktop\Proyecto_CSharp_VS_2010\Proyecto\obj\x86\Debug\Proyecto.csproj.GenerateResource.Cache

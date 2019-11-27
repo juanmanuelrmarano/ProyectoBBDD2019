@@ -1,0 +1,235 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{F02A3150-A158-45E4-B47F-98F8828987E8}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Proyecto</RootNamespace>
+    <AssemblyName>Proyecto</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AgregarExcursionesPaquete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AgregarExcursionesPaquete.Designer.cs">
+      <DependentUpon>AgregarExcursionesPaquete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Clientes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Clientes.Designer.cs">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Comprobantes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Comprobantes.Designer.cs">
+      <DependentUpon>Comprobantes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Destinos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Destinos.Designer.cs">
+      <DependentUpon>Destinos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Excursiones.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Excursiones.Designer.cs">
+      <DependentUpon>Excursiones.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Hoteles.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Hoteles.Designer.cs">
+      <DependentUpon>Hoteles.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevaReserva.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevaReserva.Designer.cs">
+      <DependentUpon>NuevaReserva.cs</DependentUpon>
+    </Compile>
+    <Compile Include="NuevoPaquete.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="NuevoPaquete.Designer.cs">
+      <DependentUpon>NuevoPaquete.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PaqueteDataSet.cs">
+      <DependentUpon>PaqueteDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="PaqueteDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>PaqueteDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="Presupuestos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Presupuestos.Designer.cs">
+      <DependentUpon>Presupuestos.cs</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroUsuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="RegistroUsuarios.Designer.cs">
+      <DependentUpon>RegistroUsuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Principal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Principal.Designer.cs">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Reservas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Reservas.Designer.cs">
+      <DependentUpon>Reservas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ReservasDia.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ReservasDia.Designer.cs">
+      <DependentUpon>ReservasDia.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SQL.cs" />
+    <Compile Include="Transportes.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Transportes.Designer.cs">
+      <DependentUpon>Transportes.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Usuarios.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Usuarios.Designer.cs">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AgregarExcursionesPaquete.resx">
+      <DependentUpon>AgregarExcursionesPaquete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CLientes.resx">
+      <DependentUpon>Clientes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Comprobantes.resx">
+      <DependentUpon>Comprobantes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Destinos.resx">
+      <DependentUpon>Destinos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Excursiones.resx">
+      <DependentUpon>Excursiones.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Hoteles.resx">
+      <DependentUpon>Hoteles.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevaReserva.resx">
+      <DependentUpon>NuevaReserva.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="NuevoPaquete.resx">
+      <DependentUpon>NuevoPaquete.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Presupuestos.resx">
+      <DependentUpon>Presupuestos.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Principal.resx">
+      <DependentUpon>Principal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RegistroUsuarios.resx">
+      <DependentUpon>RegistroUsuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Reservas.resx">
+      <DependentUpon>Reservas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ReservasDia.resx">
+      <DependentUpon>ReservasDia.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="transportes.resx">
+      <DependentUpon>Transportes.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Usuarios.resx">
+      <DependentUpon>Usuarios.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="app.config" />
+    <None Include="ClassDiagram1.cd" />
+    <None Include="PaqueteDataSet.xsc">
+      <DependentUpon>PaqueteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="PaqueteDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>PaqueteDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="PaqueteDataSet.xss">
+      <DependentUpon>PaqueteDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
